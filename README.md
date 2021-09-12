@@ -1,4 +1,4 @@
-# DeepLearning-VariationalAutoencoder
+# DeepLearning-Convnet-LSTM-Sequential
 
 #### Create a tokenize function that splits a sentence into words.
 
